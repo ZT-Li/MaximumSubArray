@@ -1,4 +1,4 @@
-package cs146F19.Li.Project2;
+package MaxSubArray;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,4 @@
-package cs146F19.Li.Project2;
+package MaxSubArray;
 
 public class MaxSubArray {
 	// the first algorithm to find the maximum subarray with a runtime of O(n^2)
